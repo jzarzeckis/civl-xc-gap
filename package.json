@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/jzarzeckis/civl-xc-gap#readme",
   "devDependencies": {
+    "prettier": "^2.0.5",
     "typescript": "^3.9.7"
   },
   "dependencies": {
