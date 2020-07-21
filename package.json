@@ -1,0 +1,33 @@
+{
+  "name": "civl-xc-gap",
+  "version": "0.0.1",
+  "description": "A port of fscomp gap scoring formula for use in JS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarzeckis/civl-xc-gap.git"
+  },
+  "keywords": [
+    "paragliding",
+    "fscomp",
+    "gap2020",
+    "xc-score"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzarzeckis/civl-xc-gap/issues"
+  },
+  "homepage": "https://github.com/jzarzeckis/civl-xc-gap#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
